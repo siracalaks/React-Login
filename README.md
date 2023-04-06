@@ -1,4 +1,4 @@
-# Proje Adı: Food-Order-App-2
+# Proje Adı: React-Login
 Bir web sayfanın kullanıcı adı ve şifreyi girdikten sonra login sayfası aşamasını geçip diğer sayfalara ulaşabilir.
 
 Demo Görüntüsü
